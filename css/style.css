@@ -1,0 +1,42 @@
+body{
+    padding: 20px 100px;
+    background-color: darkslategray;
+    color: #fff;
+}
+h1{
+    text-align: center;
+    padding: 20px 0 30px 0 ;
+}
+#card{
+    width: 400px;
+    height: 250px;
+    border: 1px solid #6b6b6b;
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.button-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top: 40px;
+}
